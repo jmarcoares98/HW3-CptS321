@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW3", "HW3\HW3.csproj", "{843044F7-6B91-40B5-98B1-DBED69F97559}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NUnitTestProject1", "NUnitTestProject1\NUnitTestProject1.csproj", "{C4FFCF01-AA97-4C6D-A3D0-EFE4FFBA7F36}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A4DA6AC5-8EB9-4A94-85B8-EEAFB23161C3}"
+	ProjectSection(SolutionItems) = preProject
+		HW3.txt = HW3.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{843044F7-6B91-40B5-98B1-DBED69F97559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{843044F7-6B91-40B5-98B1-DBED69F97559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{843044F7-6B91-40B5-98B1-DBED69F97559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{843044F7-6B91-40B5-98B1-DBED69F97559}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4FFCF01-AA97-4C6D-A3D0-EFE4FFBA7F36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4FFCF01-AA97-4C6D-A3D0-EFE4FFBA7F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4FFCF01-AA97-4C6D-A3D0-EFE4FFBA7F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4FFCF01-AA97-4C6D-A3D0-EFE4FFBA7F36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAE5827F-5F46-4064-9B5B-A07C1F3A5F5F}
+	EndGlobalSection
+EndGlobal
